@@ -12,7 +12,8 @@
 * Por dentro da Segurança Cibernética;
 * Competência Transversal - Segurança no Trabalho;
 * Fundamentos do Python ;
-* FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL.
+* FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL;
+* Ética na inteligência artificial.
 
 ## 🎖 Qualidades:
 * Organização;
