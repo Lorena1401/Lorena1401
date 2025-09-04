@@ -13,7 +13,8 @@
 * Competência Transversal - Segurança no Trabalho;
 * Fundamentos do Python ;
 * FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIAL;
-* Ética na inteligência artificial.
+* Ética na inteligência artificial;
+* Desvendando a Descarbonização.
 
 ## 🎖 Qualidades:
 * Organização;
