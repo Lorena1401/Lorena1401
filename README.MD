@@ -6,7 +6,7 @@
 * Telefone: (52)12345-6789
 * GitHub: https://github.com/Lorena1401/Lorena1401.git
 * Wireframes: file:///U:/Users/49210071875/Downloads/Health%20IA.pdf
-              file:///U:/Users/49210071875/Downloads/PetConecta.pdf
+* file:///U:/Users/49210071875/Downloads/PetConecta.pdf
 
 ## 📚 Cursos Complementares:
 * Excel Básico;
