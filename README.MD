@@ -39,4 +39,4 @@
 * Ler;
 ## Projetos:
 *
-Pdf: {PetConecta}(PetConecta.pdf)
+PDF: {PetConecta}(PetConecta.pdf)
