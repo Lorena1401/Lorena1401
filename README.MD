@@ -42,5 +42,5 @@
 Nosso compromisso é proporcionar carinho, confiança e bem-estar para os animais de estimação e tranquilidade para seus tutores.
 
 *A Health-IA é uma empresa inovadora que une saúde e inteligência artificial para transformar o cuidado médico. Nossa missão é melhorar a precisão dos diagnósticos e oferecer tratamentos personalizados, utilizando soluções baseadas em dados e tecnologia de ponta. Atuamos em parceria com hospitais, clínicas e profissionais da saúde para garantir mais eficiência, segurança e qualidade de vida aos pacientes
-PDF: [Sites](PetConecta e Saude IA.pdf)
+PDF: [Sites](pet.pdf)
 
